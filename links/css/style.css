@@ -628,7 +628,7 @@ footer {
         top: 100%;
         left: 0;
         right: 0;
-        background: linear-gradient(135deg, rgba(26, 35, 126, 0.9), rgba(10, 219, 141, 0.8));
+        background: var(--light);
         flex-direction: column;
         padding: 1rem 0;
         border-radius: 25px;
